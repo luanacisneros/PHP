@@ -12,6 +12,7 @@
   	echo "Numero aleatorio: " . $d . "<br>" ;
   	
   	for ($i=1; $i <= $d ; $i++) { 
+      $suma=0;
   		$suma=$d+$i;
   	}
 
